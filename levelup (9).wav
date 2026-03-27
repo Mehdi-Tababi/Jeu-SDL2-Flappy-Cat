@@ -1,0 +1,6 @@
+# ninja log v6
+24	769	7900390133685324	CMakeFiles/Game.dir/main.c.obj	a0841d08ae85f040
+4	1059	7900790566162723	build.ninja	8d79607496338151
+769	1051	7900390141133422	Game.exe	26d5bd098dc353b0
+4	1059	7900790566112716	C:/Users/mahdi/CLionProjects/Game/cmake-build-debug/cmake_install.cmake	8d79607496338151
+4	430	7867609798821245	CMakeFiles/Game.dir/Game.c.obj	d4f4defac70701fb
